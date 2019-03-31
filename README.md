@@ -2,11 +2,16 @@
 
 ## Objectives
 
+
 * Get familiar with git syntax
 * Get comfortable creating, merging, pushing and pulling branches
 * Resolve merge conflicts
 
+<<<<<<< HEAD
 ## Lauren Here:
+=======
+#Lauren here:
+>>>>>>> origin/add-fireflies
 
 (╯°□°）╯︵ ┻━┻
 
@@ -20,7 +25,7 @@ For this lab, you're going to be pretending that you work for National Geographi
 
 ### Branching
 
-Before altering your code base, open `index.html` in the browser. In the first part of this lab, you're going to add a photo of a turtle below the image of the tree to a branch then merge that branch into master.
+Before altering your code base, open `index.html` in the browser. In the first part of this lab, you are going to add a photo of a turtle below the image of the tree to a branch then merge that branch into master.
 
 * Type `git branch`. This should show you that you're on the master branch.
 * Make a new branch called `add-turtle` from the master branch: `git branch add-turtle`
